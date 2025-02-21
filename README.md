@@ -3,7 +3,7 @@ CRUD operation with fastapi and next/react js
 
 For run this application on your machine.
 
-1. git clone https://github.com/mominur774/fastapi-next-react-crud.git
+1. git clone https://github.com/somyagupta1234/fastapi-next-crud-123.git
 
 # Backend:
 2. cd crudbackend
